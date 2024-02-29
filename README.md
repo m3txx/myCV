@@ -21,7 +21,7 @@ Temple Honors Program, January 2022 - Present
 
 ## Work Experience																			
 **Undergraduate Research** 
-*Temple University Dept of Engineering | Neural Engeneering Data Consortium | https://isip.piconepress.com/projects/nedc/ *
+*Temple University Dept of Engineering | Neural Engeneering Data Consortium | https://isip.piconepress.com/projects/nedc/ 
 -	digitized biopsy slides using Leica Asperio Digital Pathology scanner
 -	annotated specific regions of breast cancer stains for invasive and noninvasive ductal carcinoma, as well as normal regions
 -	selected tissue samples from biopsies to be used in machine learning
